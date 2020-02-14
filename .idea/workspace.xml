@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caaa2029-75c2-499a-b386-95edc0f0bde8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SMTP$SMTPServer.coverage" NAME="SMTPServer Coverage Results" MODIFIED="1576577630407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SMTP$SMTPClient.coverage" NAME="SMTPClient Coverage Results" MODIFIED="1576577633234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1URLc3PKOekPdLIg7dwS9XchsH4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - University of Derby/Year 2/Networks and Security/Assignment/Final/SMTP100466642/SMTP" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.SMTPClient">
+    <configuration name="SMTPClient" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Week 5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SMTPClient.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SMTPClientLib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Week 5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SMTPClientLib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SMTPEncryption" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Week 5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SMTPEncryption.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SMTPServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Week 5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SMTPServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SMTPServerLib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Week 5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SMTPServerLib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SMTPClient" />
+      <item itemvalue="Python.SMTPEncryption" />
+      <item itemvalue="Python.SMTPServer" />
+      <item itemvalue="Python.SMTPServerLib" />
+      <item itemvalue="Python.SMTPClientLib" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SMTPClient" />
+        <item itemvalue="Python.SMTPServer" />
+        <item itemvalue="Python.SMTPClientLib" />
+        <item itemvalue="Python.SMTPServerLib" />
+        <item itemvalue="Python.SMTPEncryption" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caaa2029-75c2-499a-b386-95edc0f0bde8" name="Default Changelist" comment="" />
+      <created>1575314536706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575314536706</updated>
+      <workItem from="1575314539102" duration="18000" />
+      <workItem from="1575314618864" duration="1003000" />
+      <workItem from="1575321913497" duration="7617000" />
+      <workItem from="1575494835382" duration="575000" />
+      <workItem from="1577130683765" duration="1385000" />
+      <workItem from="1577364958445" duration="2199000" />
+      <workItem from="1577367315737" duration="6771000" />
+      <workItem from="1577378143737" duration="1442000" />
+      <workItem from="1577623018842" duration="77000" />
+      <workItem from="1577623140063" duration="141000" />
+      <workItem from="1577623326965" duration="2850000" />
+      <workItem from="1577711704143" duration="9539000" />
+      <workItem from="1577724232269" duration="9479000" />
+      <workItem from="1577796190841" duration="13649000" />
+      <workItem from="1577813751877" duration="2982000" />
+      <workItem from="1577894278050" duration="4060000" />
+      <workItem from="1577903979933" duration="12332000" />
+      <workItem from="1577970076465" duration="26006000" />
+      <workItem from="1577999962493" duration="299000" />
+      <workItem from="1578004655665" duration="177000" />
+      <workItem from="1578005930975" duration="426000" />
+      <workItem from="1578055389117" duration="27053000" />
+      <workItem from="1578085238758" duration="779000" />
+      <workItem from="1578086029007" duration="21000" />
+      <workItem from="1578141680095" duration="17000" />
+      <workItem from="1578161483533" duration="469000" />
+      <workItem from="1578229577926" duration="453000" />
+      <workItem from="1578230480945" duration="123000" />
+      <workItem from="1578230642363" duration="142000" />
+      <workItem from="1578235370559" duration="363000" />
+      <workItem from="1578235988985" duration="65000" />
+      <workItem from="1578237262013" duration="26000" />
+      <workItem from="1578242812391" duration="1234000" />
+      <workItem from="1578245179752" duration="10000" />
+      <workItem from="1578258092388" duration="64000" />
+      <workItem from="1578326513713" duration="112000" />
+      <workItem from="1578342496652" duration="62000" />
+      <workItem from="1578342913625" duration="190000" />
+      <workItem from="1578343165370" duration="73000" />
+      <workItem from="1578343273913" duration="861000" />
+      <workItem from="1578344166528" duration="269000" />
+      <workItem from="1578672908188" duration="264000" />
+      <workItem from="1578673245667" duration="195000" />
+      <workItem from="1578674209706" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SMTP$SMTPClientLib.coverage" NAME="SMTPClientLib Coverage Results" MODIFIED="1578343503607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SMTP$SMTPServer.coverage" NAME="SMTPServer Coverage Results" MODIFIED="1578673379111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SMTP$SMTPEncryption.coverage" NAME="SMTPEncryption Coverage Results" MODIFIED="1575315083859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SMTP$SMTPServerLib.coverage" NAME="SMTPServerLib Coverage Results" MODIFIED="1578068354569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SMTP$SMTPClient.coverage" NAME="SMTPClient Coverage Results" MODIFIED="1578673380561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
